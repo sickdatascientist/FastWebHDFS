@@ -1,6 +1,8 @@
 # FastWebHDFS
 
-FastWebHDFS is a high-performance, asynchronous Python client for interacting with Hadoop clusters via WebHDFS, designed for modern, real-time, and AI-driven workloads. Built with async-first principles, FastWebHDFS provides non-blocking access to HDFS, making it well-suited for MCP (Model Context Protocol) integrations, streaming pipelines, and real-time AI applications that require low-latency and scalable file system operations over Hadoop. The library supports secure Hadoop environments, including Kerberos-enabled and HTTPS-secured WebHDFS clusters, enabling seamless authentication and authorization in enterprise deployments. FastWebHDFS abstracts the complexity of secure WebHDFS communication while preserving fine-grained control over connections, timeouts, and concurrency.
+FastWebHDFS is a high-performance, asynchronous Python client for interacting with Hadoop clusters via WebHDFS, designed for modern, real-time, and AI-driven workloads.
+
+Built with async-first principles, FastWebHDFS provides non-blocking access to HDFS, making it well-suited for MCP (Model Context Protocol) integrations, streaming pipelines, and real-time AI applications that require low-latency and scalable file system operations over Hadoop. The library supports secure Hadoop environments, including Kerberos-enabled and HTTPS-secured WebHDFS clusters, enabling seamless authentication and authorization in enterprise deployments. FastWebHDFS abstracts the complexity of secure WebHDFS communication while preserving fine-grained control over connections, timeouts, and concurrency.
 
 ## Key Features
 
